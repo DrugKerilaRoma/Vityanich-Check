@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My site</title>
+   
+<link href="csss.css" rel="stylesheet" type="text/css">
+
+
+  </head>
+  <body>
+    <p id="poprobuem">
+Как испечь настоящие круассаны?
+</p>
+
+<ul>
+
+<li>fir</li>
+<li><a href="sec.html">sec</a></li>
+<li><a href="thr.html">thr</a></li>
+<li><a href="thr.html">sit</a></li>
+
+</ul>
+
+<div class="example"> 
+<ul> 
+<li lass ="example"> odin </li>
+<li> dva </li>
+<li> tri </li>
+<li> chetire </li>
+<li> pyat' </li>
+<li> shest' </li>
+</ul>
+</div>
+<details>
+  <summary>Нажми</summary>
+  <p>Нажал, молодец</p>
+</details>
+
+  </body>
+</html>
